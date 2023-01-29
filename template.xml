@@ -1,0 +1,20 @@
+<Annotations MicronsPerPixel="">
+	<Annotation Id="1" Name="" ReadOnly="0" NameReadOnly="0" LineColorReadOnly="0" Incremental="0" Type="4" LineColor="65280" Visible="1" Selected="0" MarkupImagePath="" MacroName="">
+		<Attributes/>
+		<Regions>
+			<RegionAttributeHeaders>
+				<AttributeHeader Id="9999" Name="Region" ColumnWidth="-1"/>
+				<AttributeHeader Id="9997" Name="Length" ColumnWidth="-1"/>
+				<AttributeHeader Id="9996" Name="Area" ColumnWidth="-1"/>
+				<AttributeHeader Id="9998" Name="Text" ColumnWidth="-1"/>
+			</RegionAttributeHeaders>
+			<Region Id="1" Type="0" Zoom="" Selected="0" ImageLocation="" ImageFocus="-1" Length="" Area="" LengthMicrons="" AreaMicrons="" Text="" NegativeROA="1" InputRegionId="0" Analyze="1" DisplayId="1">
+				<Attributes/>
+				<Vertices>
+					<Vertex X="0" Y="0" Z="0"/>
+				</Vertices>
+			</Region>
+		</Regions>
+		<Plots/>
+	</Annotation>
+</Annotations>
