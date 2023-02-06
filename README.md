@@ -1,7 +1,7 @@
 # VENet
 The source code  for VENet. 
-![结果](_figures/VENet_SVM_DL2.png)
-![结果](_figures/VENet.jpg)
+![VENet](_figures/VENet_SVM_DL2.png)
+![Early Gastric Cancer Diagnosis](_figures/VENet.jpg)
 ## Experimental environment and dependencies
 The VENet model was implemented under the open-source deep learning framework **PyTorch**. All models were trained and evaluated on a single **Nvidia Tesla A100 GPU**.
 - Ubuntu 18.04.6 LTS
