@@ -2,7 +2,7 @@
 ![VENet](https://github.com/zsc15/VENet/blob/main/figures/VENet.jpg)
 ![Early Gastric Cancer Diagnosis](https://github.com/zsc15/VENet/blob/main/figures/VENet_SVM_DL2.png)
 ## Experimental environment and dependencies
-The VENet model was implemented under the open-source deep learning framework **PyTorch**. All models were trained and evaluated on a single **Nvidia Tesla A100 GPU**, Ubuntu 18.04.6 LTS.
+The VENet model was implemented under the open-source deep learning framework **PyTorch**. All models were trained and evaluated on a single **Nvidia Tesla A100 GPU**, **Ubuntu 18.04.6 LTS**.
 - python 3.6.9
 - numpy                     1.17.3
 - scipy                     1.3.1
