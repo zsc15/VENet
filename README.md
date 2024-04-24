@@ -37,7 +37,7 @@ issn = {0169-2607},
 doi = {https://doi.org/10.1016/j.cmpb.2024.108178},
 url = {https://www.sciencedirect.com/science/article/pii/S0169260724001743},
 author = {Shuchang Zhang and Ziyang Yuan and Xianchen Zhou and Hongxia Wang and Bo Chen and Yadong Wang},
-keywords = {Gland segmentation, Early gastric cancer diagnosis, Whole slide images, VENet},
+keywords = {Gland segmentation, Early gastric cancer diagnosis, Whole slide images, VENet}
 }
 
 ```
