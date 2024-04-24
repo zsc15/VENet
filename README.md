@@ -25,7 +25,7 @@ The VENet model was implemented under the open-source deep learning framework **
 2. Load the pretrained weights. Please directly run this critical python code: `fastread2.py`. Generate six cache files: three **npy** files about pathological feature, three **.xml**  suffix files for annotation , nucleus width label, and final detection results of whole slide image.
 3. Use **Aperio ImageScope** software for visualization.
 ## Citation
-If you find our code is useful for you, please cite us.
+If you use our code, please cite us.
 ```
 @article{ZHANG2024108178,
 title = {VENet: Variational energy network for gland segmentation of pathological images and early gastric cancer diagnosis of whole slide images},
